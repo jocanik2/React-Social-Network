@@ -13,7 +13,7 @@ class Like extends Component {
   };
   render() {
     return (
-      <div className="container"   style={{height:"105px" }}>
+      <div className="container"   style={{height:"110px" }}>
         <center>
           <p>Do you like this person?</p>
           <div
