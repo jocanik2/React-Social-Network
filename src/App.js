@@ -28,7 +28,6 @@ function App() {
       }
       setAllUsers(userData.results);
       setUsers(userData.results);
-      console.log(users);
 
     })();
 

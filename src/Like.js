@@ -13,11 +13,11 @@ class Like extends Component {
   };
   render() {
     return (
-      <div className="container"   style={{height:"110px" }}>
+      <div className="container"   style={{height:"100px" }}>
         <center>
           <p>Do you like this person?</p>
           <div
-            className="container"
+            className="sub-container"
             style={{ border: "1px solid black", width: "15%"}}
             onClick={() => this.toggle()}
           >
